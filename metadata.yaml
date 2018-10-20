@@ -1,5 +1,5 @@
 _repo: Tales-from-the-Arabic-Volume-02_5243
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Payne, John
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Folklore -- Arab countries'
 - !lcsh 'Fairy tales -- Arab countries'
 - !lcc 'PJ'
+- GITenberg
 title: Tales from the Arabic — Volume 02
 url: http://www.gutenberg.org/ebooks/5243
